@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520499795723",
+    "project_id": "scanner-eeb22",
+    "storage_bucket": "scanner-eeb22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520499795723:android:46fd731cb4509ecfab740e",
+        "android_client_info": {
+          "package_name": "com.anany.scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520499795723-s81632r4ua3n5t6phlmffn96nqefrp7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQXgwKAstlPGcousWrf-NGWMTuQHIxlUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520499795723-s81632r4ua3n5t6phlmffn96nqefrp7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
