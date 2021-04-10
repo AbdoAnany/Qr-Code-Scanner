@@ -3,8 +3,8 @@
 A new Flutter application.
 
 ## Getting Started
-##pahetage :
- qrscan:
+## pahetage :
+### qrscan:
   convex_bottom_bar:
   google_mobile_ads:
   flutter_riverpod:
