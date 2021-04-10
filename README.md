@@ -1,6 +1,6 @@
 # scanner
 
-A new Flutter application.
+A Supports Null Safety.
 
 ## Getting Started
 # package 
